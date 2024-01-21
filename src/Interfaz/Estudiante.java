@@ -65,4 +65,9 @@ public class Estudiante {
     private JCheckBox checkBox39;
     private JCheckBox checkBox40;
     private JButton button18;
+    private JTextField textField1;
+    private JTextField textField2;
+    private JTextField textField3;
+    private JTextField textField4;
+    private JTextField textField5;
 }
